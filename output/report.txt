@@ -1,0 +1,11 @@
+Average score: 78.14
+student with highest score : Student{name='Ivan', score=99}
+
+---Students ranking----
+1. Student{name='Ivan', score=99}
+2. Student{name='Amir', score=92}
+3. Student{name='Camila', score=88}
+4. Student{name='Bekzod', score=76}
+5. Student{name='Julia', score=73}
+6. Student{name='Hannah', score=64}
+7. Student{name='Eldor', score=55}
