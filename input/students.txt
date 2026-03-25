@@ -1,6 +1,10 @@
-### write your own data like in example below
-    Alice,85
-    Bob,90
-    Charlie,abc
-    David,78
-    Eve,95
+Amir,92
+Bekzod,76
+Camila,88
+Diana,abc
+Eldor,55
+Fatima,-10
+George,101
+Hannah,64
+Ivan,99
+Julia,73
